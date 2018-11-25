@@ -1,0 +1,19 @@
+---
+layout: single
+title: Switch Button
+header: no
+categories:
+  - interaction
+tags:
+  - canvas
+---
+
+Διαδραστικό παράδειγμα κώδικα στο οποίο ο χρήστης μπορεί να επηρεάσει την κατάσταση ενός διακόπτη κάνοντας κλικ πάνω του.
+
+
+<p data-height="265" data-theme-id="0" data-slug-hash="GpgVJv" data-default-tab="css,result" data-user="sckarolos" data-pen-title="Switch Button #2" class="codepen">See the Pen <a href="https://codepen.io/sckarolos/pen/GpgVJv/">Switch Button #2</a> by sckarolos (<a href="https://codepen.io/sckarolos">@sckarolos</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+                                                         
+
+
+Άσκηση: Τροποποιήστε το κουμπί με περισσότερες επιλογές και θέσεις.
