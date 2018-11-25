@@ -1,6 +1,6 @@
 ---
 layout: single
-title:Interactive Progress Bar
+title: Interactive Progress Bar
 header: no
 categories:
   - interaction
